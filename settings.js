@@ -56,7 +56,7 @@ global.language = indonesia //change indonesia to english if you don't understan
 // Other
 global.botname = "Ino Botོ" //namabot kalian
 global.ownername = "Ino Botོ ×፝֟͜×" //nama kalian
-global.myweb = "https://s.id/zeeoneofc" //bebas asal jan hapus
+global.myweb = "https://linktr.ee/Ino_Bot" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/@ZeeoneOfc" //bebas asal jan hapus
 global.myweb2 = "https://s.id/zeeoneofc" //bebas
 global.email = "zeeoneofc@gmail.com" //bebas
