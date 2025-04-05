@@ -18,13 +18,13 @@ Trace:
 
 npm manifest: 
   {
-    "name": "Alphabot-Md",
+    "name": "Ino Bot",
     "version": "17.0.9",
-    "description": "Alphabot Md, Only update in YouTube ZEEONE OFC",
-    "main": "zeeone.js",
+    "description": "Ino bot, Only update in YouTube inosipit OFC",
+    "main": "Ino Bot.js",
     "license": "MIT",
     "scripts": {
-      "start": "node zeeone.js"
+      "start": "node Ino Bot.js"
      },
     "keywords": [
       "whatsapp",
@@ -33,7 +33,7 @@ npm manifest:
       "base",
       "baileys-md"
     ],
-    "author": "ZeeoneOfc",
+    "author": "Ino Bot",
     "license": "MIT",
     "dependencies": {
       "@adiwajshing/baileys": "npm:baileys@^6.0.9",
